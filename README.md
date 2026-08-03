@@ -1,1 +1,1 @@
-We only hire the best of the best here at O3C
+The accounts here should not have been linked to this repo.
